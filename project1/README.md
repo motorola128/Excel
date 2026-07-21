@@ -72,7 +72,13 @@ Users can filter the dashboard by:
 making it easy to explore customized salary insights.
 
 
+---
 
+## 
+
+![Salary Dashboard](screenshots/Screenshot2026-07-21155947.png)
+
+---
 
 
 ## 📊 Key Insights
