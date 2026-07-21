@@ -71,32 +71,9 @@ Users can filter the dashboard by:
 
 making it easy to explore customized salary insights.
 
----
 
-## 📷 Dashboard Preview
 
-> *(Add your dashboard screenshot here after uploading it to the `images` folder.)*
 
-```markdown
-![Dashboard](images/dashboard.png)
-```
-
----
-
-## 📁 Project Structure
-
-```
-Excel-Salary-Dashboard/
-│
-├── README.md
-├── Excel_Salary_Dashboard.xlsx
-├── images/
-│   └── dashboard.png
-└── dataset/
-    └── data_jobs_salary.xlsx
-```
-
----
 
 ## 📊 Key Insights
 
@@ -118,10 +95,5 @@ Excel-Salary-Dashboard/
 
 ---
 
-## 👤 Author
 
-**Your Name**
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
