@@ -155,7 +155,31 @@ The project includes:
 
 ---
 
+# 📸 Project Screenshots
 
+## Salary Analysis
+
+![Salary Analysis](screenshots/salaryanlaysis.png)
+
+---
+
+## Salary vs Skills Analysis
+
+![Salary vs Skills](screenshots/salaryvsskill.png)
+
+---
+
+## Skill Analysis
+
+![Skill Analysis](screenshots/skillanalysis.png)
+
+---
+
+## Skill Salary Analysis
+
+![Skill Salary Analysis](screenshots/skillsalaryanalysis.png)
+
+---
 
 ## 💡 Key Insights
 
