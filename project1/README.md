@@ -76,7 +76,7 @@ making it easy to explore customized salary insights.
 
 ## 
 
-![Salary Dashboard](screenshots/Screenshot2026-07-21155947.png)
+![Salary Dashboard](images/salary_dashboard.png)
 
 ---
 
